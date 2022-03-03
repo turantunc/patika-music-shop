@@ -1,0 +1,59 @@
+#ana-baslik{
+    background-color: orange;
+    color: white;
+    border-radius: 5cm;
+    font-size: 45px;
+    text-align: center;
+    list-style-position: inside
+}
+
+#alt-baslik{
+    padding: 0.5cm;
+    color: darkviolet;
+    text-align: center;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    padding:1cm;
+}
+
+.products{
+    text-align: center;
+    list-style-position: inside;
+}
+
+nav{
+    text-align: center;
+    list-style-position: inside;
+}
+
+#nav{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.anasayfa-main{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.about-alt-baslik{
+    color:darkgoldenrod;
+}
+
+#article-contact{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.phone:hover{
+    background-color:lavender;
+    border-radius: 500px;
+}
+
+.mail:hover{
+    background-color:lavender;
+    border-radius: 45px;
+}
